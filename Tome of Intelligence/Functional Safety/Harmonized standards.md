@@ -1,7 +1,7 @@
-Standards that are compatible with the [[Machinery Directive]]
+Standards that are compatible with the [[Machinery Directive]], 
 
 
-## A harmonized standard for the Machinery Directive 
+## A harmonized standard (for the Machinery Directive)
 is a European technical standard developed by European standardization organizations that, once published in the Official Journal of the EU, provides a voluntary path to presumed conformity with the Machinery Directive's essential health and safety requirements, helping manufacturers demonstrate CE-compliant products for free movement in the EU market. 
 
 ## How Harmonized Standards Work
