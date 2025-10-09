@@ -1,0 +1,1 @@
+A basis standard; They give the basic safety concepts, principles for design, and general aspects that can be applied to machinery. [[ISO 12100]] is an example of a Type-A standard.

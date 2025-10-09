@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "55d8d39189f130e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8625ad40a7e5d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a29cdbcf98d3a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Safety/ISO 13849-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO 13849-1"
+            }
+          },
+          {
+            "id": "432b2508ac59527f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Safety/Harmonized standards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harmonized standards"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e5ef94ec1afe295",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a736f390841598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72656bc0c75b424d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6bc62ca70780513b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4395303709c6cbb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3b25eea9439671b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2db24904c9de46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc57e22dbcd47f1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functional Safety/Harmonized standards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Harmonized standards"
+            }
+          },
+          {
+            "id": "62fbf99424f9c764",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Functional Safety/Harmonized standards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Harmonized standards"
+            }
+          },
+          {
+            "id": "de65619da2634794",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cf5db613c076346",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Functional Safety/Harmonized standards.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Harmonized standards"
+            }
+          },
+          {
+            "id": "16db35ef21e865ee",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Functional Safety/Harmonized standards.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "3a29cdbcf98d3a2b",
+  "lastOpenFiles": [
+    "Functional Safety/ISO 12100.md",
+    "Functional Safety/Machinery.md",
+    "Functional Safety/Type-A Standard.md",
+    "Functional Safety/Harmonized standards.md",
+    "Books",
+    "Music",
+    "Philosophy",
+    "Functional Safety/ISO 13849-1.md",
+    "Functional Safety",
+    "Functional Safety/ISO 13849-2.md",
+    "Functional Safety/ISO.md",
+    "Functional Safety/Machinery Directive.md",
+    "Functional Safety/IEC Membership map.png",
+    "Functional Safety/IEC.md",
+    "Welcome.md",
+    "Type-A standard.md"
+  ]
+}
