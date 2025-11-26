@@ -1,1 +1,0 @@
-In the context of ISO standards, particularly [[ISO 12100]], "machinery" is defined as an assembly of linked parts, at least one of which moves, equipped with or intended to be fitted with a drive system for a specific application. This includes assemblies of multiple machines that work together as an integral whole to achieve the same end goal. 
