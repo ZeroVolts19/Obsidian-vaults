@@ -1,5 +1,9 @@
-{{date}} | {{time}}
+{{date}} | {{time}} 
+
+Date finished:
+
 Status:
+
 Tags:
 
 # {{Title}}

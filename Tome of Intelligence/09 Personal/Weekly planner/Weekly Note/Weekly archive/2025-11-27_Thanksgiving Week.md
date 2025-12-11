@@ -1,0 +1,40 @@
+
+
+- [x] Thanksgiving trip
+	- [ ] Ask questions to finish dad note
+		- [ ] [[Eugene Joseph Vidunas]]
+	- [x] dad broke the back window of his car loading wood everyone told him to leave alone.
+	- [x] Have people try the VR headset
+		- [x] Get it out of the car before it leaves
+	- [x] Show off my new pcbs
+		- [ ] gather leds and resistors for pcbs
+		- [ ] shit did not work because of a sequencing issue with the dppm.
+	- [ ] Cabin
+		- [x] Ask dad for his thoughts on what he thinks is important in the forestry aspects of choosing land
+- [ ] Secret Santa: I got dad!
+- [ ] Jackie Chan Chinese movies Armour of God, Police Story.
+- [ ] Complete return for Kristen’s boots from Thursday’s boots form Christmas. 
+- [ ] Talk to John about helping dad 
+	- [ ] Said he would re-double his efforts to call him. 
+- [ ] **Notes on guitar improvement video**
+	- [ ] Set up my guitar for my playing and preferences
+	- [ ] Pick it up twice a day
+	- [ ] Pick players I want to sound like
+		- [ ] I built the sky
+		- [ ] Alan Gogol 
+	- [ ] Practice my ear by being to recognize:
+		- [ ] Major/minor chords
+		- [ ] Find the key and chords to the song completely by ear
+- [ ] **Start meal prepping chicken and rice to get swole**
+## Shelby
+- [ ] Ask her why she hasn’t gotten on a plane in a while?
+- [ ] Talk to her about the thing with Morgan and stuff, and tell her you thought it was cool of her to stand up to the guy. 
+- [ ] Get her address
+- [ ] Get her picture
+- [ ] Plan travel for weekend of 12/13 (since we got a date planned boi, though it’s not a guarantee).
+- [ ] Questions
+	- [ ] Night owl/early bird
+	- [ ] Texting and communication preferences 
+	- [ ] Nature vs big city
+	- [ ] Kids
+	- [ ] Homebody vs nightlife

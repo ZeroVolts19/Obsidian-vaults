@@ -1,3 +1,11 @@
+
+{{date}} | {{time}}
+
+Date finished:
+
+Status:
+
+Tags:
 ## Short Bio
 ---
 Genetic-research-scientist family-man, who you can find on a given day: single-handedly fitting the thick bit of a tree into the back of a Toyota Corolla, eating an entire stick of pepperoni while watching youtube advertisements for products that don't exist, and leaving the kitchen cabinets open. Most importantly though, he's my Dad, and I love 'em. 
@@ -9,20 +17,29 @@ Main Interests/Hobbies: #pepperoni #genetic-biology #hiking #biking #genetics #b
 Dreams:
 ## Origins
 Birthdate: 
+
 Birthplace:
+
 Hometown:
 ## Family
 Parents:
+
 Spouse:
+
 Kids:
+
 Pets:
 
 ## Favorites
 Favorite Colors:
+
 Favorite Foods:
+
 Favorite Songs: 
 	Take it easy (the eagles)
+
 Favorite Books:
+
 
 
 
