@@ -11,12 +11,12 @@
   "loadJapaneseFonts": false,
   "loadKoreanFonts": false,
   "compress": true,
-  "decompressForMDView": false,
+  "decompressForMDView": true,
   "onceOffCompressFlagReset": true,
   "onceOffGPTVersionReset": true,
   "autosave": true,
-  "autosaveIntervalDesktop": 60000,
-  "autosaveIntervalMobile": 30000,
+  "autosaveIntervalDesktop": 30000,
+  "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
@@ -72,7 +72,7 @@
   "showSecondOrderLinks": true,
   "focusOnFileTab": true,
   "openInMainWorkspace": true,
-  "showLinkBrackets": true,
+  "showLinkBrackets": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
@@ -93,7 +93,7 @@
   "embedMarkdownCommentLinks": true,
   "embedWikiLink": true,
   "syncExcalidraw": false,
-  "experimentalFileType": false,
+  "experimentalFileType": true,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
   "fadeOutExcalidrawMarkup": false,
@@ -109,7 +109,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.17.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.22.1",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -120,7 +120,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.17.2",
+  "previousRelease": "2.22.1",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -482,10 +482,10 @@
   "startupScriptPath": "",
   "aiEnabled": true,
   "openAIAPIToken": "",
-  "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
+  "openAIDefaultTextModel": "gpt-5-mini",
   "openAIDefaultTextModelMaxTokens": 4096,
-  "openAIDefaultVisionModel": "gpt-4o",
-  "openAIDefaultImageGenerationModel": "dall-e-3",
+  "openAIDefaultVisionModel": "gpt-5-mini",
+  "openAIDefaultImageGenerationModel": "gpt-image-1",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
   "openAIImageGenerationURL": "https://api.openai.com/v1/images/generations",
   "openAIImageEditsURL": "https://api.openai.com/v1/images/edits",
@@ -596,7 +596,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"
@@ -811,5 +811,12 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false
+  "disableContextMenu": false,
+  "copyLinkToElemenetAnchorTo100": false,
+  "copyFrameLinkByName": false,
+  "phoneFooterSafeAreaPadding": false,
+  "displaySVGInPreview": false,
+  "phoneUIMode": "mobile",
+  "syncElementLinkWithText": false,
+  "sidepanelTabs": []
 }

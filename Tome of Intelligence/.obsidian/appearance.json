@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Material Gruvbox"
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
+  "baseFontSize": 22
 }

@@ -1,0 +1,8 @@
+1. [[King, Warrior, Magician, Lover]]
+2. [[Complete Works of Plato]]
+3. [[The 48 Laws of Power]]
+4. Ramses II [[Ancient Egypt]] 
+5. [[Marcus Aurelius - Meditations]]
+6. [[The Second Book of the Tao]]
+7. [[Don't Know Much About the Bible]]
+8. [[The Art of War]]

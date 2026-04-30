@@ -1,0 +1,1 @@
+I think the things I tend to feel like I’m good at have an element where I can mar it “look right”—like with a schematic or mechanical design or room decoration. 

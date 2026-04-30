@@ -1,0 +1,136 @@
+- [[2026-04-14]] 10:28 PM — Synced 1556 highlights from 18 documents.
+    - 12 highlights from King, Warrior, Magician, Lover
+    - 308 highlights from The Power of Self-Awareness
+    - 32 highlights from Rapport
+    - 2 highlights from Delphi Collected Works of Sigmund Freud
+    - 34 highlights from Nicomachean Ethics
+    - 5 highlights from ESV Study Bible
+    - 34 highlights from Plato
+    - 6 highlights from The Courage to Be Disliked
+    - 144 highlights from Stranger in a Strange Land
+    - 2 highlights from Logic
+    - 7 highlights from Ten Philosophical Mistakes
+    - 1 highlights from Don't Know Much About the Bible
+    - 128 highlights from Functional Safety of Machinery
+    - 25 highlights from The 48 Laws of Power
+    - 702 highlights from How to Think About the Great Ideas
+    - 18 highlights from The Second Book of the Tao
+    - 70 highlights from Digital Zettelkasten
+    - 26 highlights from Adler's Philosophical Dictionary
+- [[2026-04-15]] 10:39 AM — Synced 13 highlights from 1 document.
+    - 13 highlights from Digital Zettelkasten
+- [[2026-04-15]] 10:41 AM — Synced 114 highlights from 1 document.
+    - 114 highlights from Digital Zettelkasten
+- [[2026-04-15]] 10:44 AM — Synced 114 highlights from 1 document.
+    - 114 highlights from Digital Zettelkasten
+- [[2026-04-15]] 11:17 AM — Synced 12 highlights from 1 document.
+    - 12 highlights from Digital Zettelkasten
+- [[2026-04-15]] 1:39 PM — Synced 1612 highlights from 18 documents.
+    - 12 highlights from King, Warrior, Magician, Lover
+    - 308 highlights from The Power of Self-Awareness
+    - 32 highlights from Rapport
+    - 2 highlights from Delphi Collected Works of Sigmund Freud
+    - 34 highlights from Nicomachean Ethics
+    - 5 highlights from ESV Study Bible
+    - 34 highlights from Plato
+    - 6 highlights from The Courage to Be Disliked
+    - 144 highlights from Stranger in a Strange Land
+    - 2 highlights from Logic
+    - 7 highlights from Ten Philosophical Mistakes
+    - 1 highlights from Don't Know Much About the Bible
+    - 128 highlights from Functional Safety of Machinery
+    - 25 highlights from The 48 Laws of Power
+    - 702 highlights from How to Think About the Great Ideas
+    - 18 highlights from The Second Book of the Tao
+    - 126 highlights from Digital Zettelkasten
+    - 26 highlights from Adler's Philosophical Dictionary
+- [[2026-04-16]] 6:37 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-17]] 1:45 PM — Synced 1636 highlights from 22 documents.
+    - 1 highlights from The Liar's Key
+    - 308 highlights from The Power of Self-Awareness
+    - 32 highlights from Rapport
+    - 2 highlights from Delphi Collected Works of Sigmund Freud
+    - 34 highlights from Nicomachean Ethics
+    - 5 highlights from ESV Study Bible
+    - 6 highlights from The Courage to Be Disliked
+    - 144 highlights from Stranger in a Strange Land
+    - 2 highlights from Logic
+    - 7 highlights from Ten Philosophical Mistakes
+    - 1 highlights from Don't Know Much About the Bible
+    - 25 highlights from The 48 Laws of Power
+    - 702 highlights from How to Think About the Great Ideas
+    - 18 highlights from The Second Book of the Tao
+    - 126 highlights from Digital Zettelkasten
+    - 26 highlights from Adler's Philosophical Dictionary
+    - 133 highlights from Functional Safety of Machinery
+    - 3 highlights from Complete Works of Plato
+    - 5 highlights from Marcus Aurelius - Meditations
+    - 6 highlights from Ancient Egypt
+    - 16 highlights from King, Warrior, Magician, Lover
+    - 34 highlights from Plato
+- [[2026-04-17]] 1:47 PM — Synced 1636 highlights from 22 documents.
+    - 1 highlights from The Liar's Key
+    - 308 highlights from The Power of Self-Awareness
+    - 32 highlights from Rapport
+    - 2 highlights from Delphi Collected Works of Sigmund Freud
+    - 34 highlights from Nicomachean Ethics
+    - 5 highlights from ESV Study Bible
+    - 6 highlights from The Courage to Be Disliked
+    - 144 highlights from Stranger in a Strange Land
+    - 2 highlights from Logic
+    - 7 highlights from Ten Philosophical Mistakes
+    - 1 highlights from Don't Know Much About the Bible
+    - 25 highlights from The 48 Laws of Power
+    - 702 highlights from How to Think About the Great Ideas
+    - 18 highlights from The Second Book of the Tao
+    - 126 highlights from Digital Zettelkasten
+    - 26 highlights from Adler's Philosophical Dictionary
+    - 133 highlights from Functional Safety of Machinery
+    - 3 highlights from Complete Works of Plato
+    - 5 highlights from Marcus Aurelius - Meditations
+    - 6 highlights from Ancient Egypt
+    - 16 highlights from King, Warrior, Magician, Lover
+    - 34 highlights from Plato
+- [[2026-04-17]] 2:24 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from The Art of War
+- [[2026-04-17]] 4:20 PM — Synced 5 highlights from 1 document.
+    - 5 highlights from Marcus Aurelius - Meditations
+- [[2026-04-17]] 4:21 PM — Synced 5 highlights from 1 document.
+    - 5 highlights from Marcus Aurelius - Meditations
+- [[2026-04-17]] 4:31 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from Marcus Aurelius - Meditations
+- [[2026-04-17]] 4:33 PM — Synced 7 highlights from 1 document.
+    - 7 highlights from Marcus Aurelius - Meditations
+- [[2026-04-18]] 6:26 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-19]] 10:55 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-20]] 10:14 AM — Synced 3 highlights from 1 document.
+    - 3 highlights from Marcus Aurelius - Meditations
+- [[2026-04-20]] 2:32 PM — Synced 5 highlights from 1 document.
+    - 5 highlights from The Daily Stoic
+- [[2026-04-20]] 9:21 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from The Richest Man in Babylon
+- [[2026-04-30]] 2:44 PM — Synced 24 highlights from 3 documents.
+    - 13 highlights from The Bullet Journal Method
+    - 9 highlights from Electrical Engineering 101
+    - 2 highlights from The Daily Stoic
+- [[2026-04-21]] 10:36 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-22]] 11:02 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-23]] 11:19 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-24]] 7:16 PM — Synced 19 highlights from 2 documents.
+    - 10 highlights from Electrical Engineering 101
+    - 9 highlights from The Daily Stoic
+- [[2026-04-25]] 1:27 AM — Synced 7 highlights from 1 document.
+    - 7 highlights from The Daily Stoic
+- [[2026-04-26]] 12:44 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-27]] 3:52 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-27]] 10:30 PM — Synced 48 highlights from 3 documents.
+    - 13 highlights from The Bullet Journal Method
+    - 31 highlights from Electrical Engineering 101
+    - 4 highlights from The Daily Stoic
+- [[2026-04-28]] 11:32 PM — Synced 0 highlights from 0 documents.
+- [[2026-04-29]] 6:34 PM — Synced 8 highlights from 1 document.
+    - 8 highlights from The Daily Stoic
+- [[2026-04-29]] 6:34 PM — Synced 8 highlights from 1 document.
+    - 8 highlights from The Daily Stoic
+
+

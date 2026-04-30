@@ -22,10 +22,15 @@
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
-    "editor:indent-list",
     "editor:unindent-list",
+    "editor:indent-list",
     "editor:insert-horizontal-rule",
     "editor:configure-toolbar",
-    "editor:insert-table"
-  ]
+    "editor:insert-table",
+    "command-palette:open",
+    "editor:table-col-after",
+    "obsidian-tasks-plugin:edit-task",
+    "obsidian-tasks-plugin:toggle-done"
+  ],
+  "livePreview": true
 }

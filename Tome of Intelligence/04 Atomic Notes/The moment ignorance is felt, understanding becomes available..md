@@ -1,0 +1,1 @@
+The moment when reading, listening, or thinking when ones lack of understanding is felt—this is a very useful feeling to get familiar with, as it’s a great sign that there’s something to learn by paying attention.
