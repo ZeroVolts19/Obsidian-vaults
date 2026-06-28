@@ -1,0 +1,2 @@
+
+The reason the 100S-C series of safety contactors from AB doesn't list DC13 in the utilization data is that their intended only for AC motor/load control. They have different 700-series relays and relay contactors designed and rated for controlling DC13 loads. 

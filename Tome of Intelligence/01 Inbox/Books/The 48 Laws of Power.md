@@ -78,8 +78,7 @@
 ([Location 675](https://readwise.io/to_kindle?action=open&asin=B0024CEZR6&location=675))
 
 
-- **Zettel:** If you appear simple and straightforward people won’t think you’re a liar? 
-   Be good at seeming innocent.
+- **Zettel:** If you appear simple and straightforward people won’t think you’re a liar? Be good at seeming innocent.
 
 ```text
 "Undutiful words of a subject do often take deeper root than the memory of ill deeds...."
@@ -152,4 +151,21 @@
 ```
 ([Location 3131](https://readwise.io/to_kindle?action=open&asin=B0024CEZR6&location=3131))
 
+
+##### KEYS TO POWER
+```text
+"Time, then, depends on perception, which, we know, can be willfully altered. This is the first thing to understand in mastering the art of timing. If the inner turmoil caused by our emotions tends to make time move faster, it follows that once we control our emotional responses to events, time will move much more slowly."
+```
+([Location 6814](https://readwise.io/to_kindle?action=open&asin=B0024CEZR6&location=6814))
+
+
+- **Zettel:** Controlling our emotions can give us some degree of control over our time - sense.
+
+```text
+"This altered way of dealing with things tends to lengthen our perception of future time, opens up possibilities that fear and anger close off, and allows us the patience that is the principal requirement in the art of timing."
+```
+([Location 6816](https://readwise.io/to_kindle?action=open&asin=B0024CEZR6&location=6816))
+
+
+- **Zettel:** Remaining calm, and thinking From a rational place is what precedes acting rightly.
 

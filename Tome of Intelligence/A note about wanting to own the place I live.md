@@ -1,0 +1,1 @@
+My thoughts often return to the idea that I want to own the place that I live; I'm burdened with feeling like my life is an overly expensive subscription. I don't like subscriptions, I want to own the place that I 

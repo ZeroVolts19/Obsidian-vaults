@@ -1,0 +1,167 @@
+Ne Quid Nimis.
+Temet Nosce.
+Sponde, Noxa Praesto Est.
+
+
+#### 0. Morning Routine:
+
+1. [ ] Pee
+2. [ ] Caffeine
+3. [ ] Allergy Meds
+4. [ ] Treat Mystique
+5. [ ] Litter boxes
+6. [ ] Brush
+7. [ ] Floss
+8. [ ] Shower
+9. [ ] Deodorant
+10. [ ] Get dressed
+11. [ ] Face
+12. [ ] Stache
+13. [ ] knuckles
+14. [ ] Lips
+15. [ ] Close bedroom
+
+
+#### A.Due & Overdue:
+```tasks
+not done
+due before today
+```
+#### 1.Scheduled Today:
+```tasks
+not done
+Scheduled before tomorrow 
+
+```
+#### 2.My Society!:
+- [ ] Ma.
+- [ ] Joey.
+- [ ] Jakey.
+- [ ] Stef.
+- [ ] Johnny Boi.
+- [ ] Seanny Boi.
+- [ ] Hector.
+- [ ] Nacho.
+- [ ] Albert.
+- [ ] Matt.
+- [ ] Chloe.
+- [ ] Chewy.
+- [ ] Daniel.
+- [ ] Campi.
+- [ ] Jesse G.
+- [ ] Alec.
+
+#### 3.**Upcoming:**
+1. [x] First Day @ Toyota 5/4 ✅ 2026-05-05
+2. [ ] **Mothers day 5/10**
+3. [ ] Chelsea Graduation 👩‍🎓  2026-05-09
+4. [ ] Dad Tattoo - E (touch-up)🔁 every year  2026-11-07
+5. [ ] Tattoo - Sponde, Noxa Praesto Est.
+6. [ ] Chelsea graduation  2026-05-08
+
+-end
+#### 4.**Open Bullet Logs/Notes:**
+1. [[ANSI B11. series]]
+2. [[Ohm's Law.]]
+3. 
+-end
+#### 5.**Needs Doing in May:**
+
+- [ ] Get updated license for new address.  2026-05-16
+- [ ] Study ANSI B11.0 and B11.19 🔁 every day ➕ 2026-05-07  2026-05-08
+- [x] Study ANSI B11.0 and B11.19 🔁 every day ➕ 2026-05-07  2026-05-07 ✅ 2026-05-07
+- [x] Study ANSI B11.0 and B11.19 🔁 every day ➕ 2026-05-05  2026-05-06 ✅ 2026-05-07
+- [x] Study ANSI B11.0 and B11.19 🔁 every day  2026-05-05 ✅ 2026-05-05
+- [x] Review Work4ce Handbook.  2026-05-02 ✅ 2026-05-04
+- [ ] Touch Music for <5min 🔁 every day ➕ 2026-05-05  2026-05-06
+- [ ] Touch Chess for <5min 🔁 every day ➕ 2026-05-07  2026-05-08
+- [ ] Explore greenways and walking trails in GSO.  2026-05-10
+- [ ] STUDY 6 EE Principles, Make Atomic Notes: ⛔ e79763,rlr24y,mtl64p,gps8ph,1ysn8f,9sr6a7  2026-05-02
+	- [ ] [[Ohm's Law.]] 🆔 e79763
+	- [ ] Voltage Divider rule. 🆔 rlr24y
+	- [ ] Capacitors Impede A Change In Voltage. 🆔 mtl64p
+	- [ ] Inductors Impede Changes In Current. 🆔 gps8ph
+	- [ ] Series And Parallel Resistors. 🆔 1ysn8f
+	- [ ] Thevenin's Theorem. 🆔 9sr6a7
+- [-] Play Armored Core  2026-05-02 ❌ 2026-05-04
+- [ ] Pot monsterra. 2026-05-09
+- [ ] Tint Glocky. -> suncool. 2026-05-09
+- [ ] Design Mom’s closet thingy. 2026-05-09
+- [x] Closet cat pee smell.  2026-05-03 ✅ 2026-05-05
+- [ ] **Speeding ticket**
+	- [-] register for Defensive Drving course in Elizabethton.  2026-05-01 ❌ 2026-05-03
+	- [ ] Court 5/20 elizabethton TN   2026-05-20
+	- [x] Call about 0nline driving school sign up ⏫  2026-04-30 ✅ 2026-04-30
+- [ ] Return Kindle Colorsoft.  2026-05-05
+- [ ] **Mother’s day gift.**  2026-05-05
+-end
+#### 6.Needs Getting In May:
+
+- [ ] Airbnb for Chelsea birthday.  2026-05-04  2026-05-10
+#### 7.Hobbies & Habits:
+- [ ] Chess.
+- [x] Rocksmith. ✅ 2026-05-01
+- [ ] Grove modules.
+- [ ] video games.
+- [ ] Reading.
+- [ ] The Toaster.
+#### 8.Week's Personal Updates - 
+##### 4/27-5/3:
+ - 5/1 - Had a hard time waking up; did the thing where I go back to sleep when I should get up in the morning.
+ - 5/2 - I had a productive day but it didn’t make me feel good.
+ - 5/3 - Played a lot of rocksmith, I really just enjoy playing guitar. Maybe bc It requires a lot of focus.
+ - 5/3 - Really anxious about my first day at the new job. 
+ - 5/4 - first day at the new job, fucking excited. Having creative ideas to solve safety dilemmas. 
+ - 5/4 - the feeling I have right now is like I’ve found my lever with which to turn the world in my favor 🌎. 
+
+
+#### 9.**Notes of Power**
+ - [[Reading NoP]]
+	 - [ ] Read the bullet journal book
+ - [[Guitar NoP]]
+ - [[Chess NoP]]
+ - [[Piano NoP]]
+ - [[Keebs NoP]]
+ - [[DND NoP]]
+ - [[FS NoP]]
+ - [[Movies Nop]] 
+-end
+
+#### 10.Usage Log
+- I can use the find/replace to remove the calendar emoji from the previous days bullet note—this fixes the issue of duplicating “smart” tasks in the queries! 
+- Updated the Tasks query at the top of my bullet note format. Now it shows past-due items as well!
+- I updated the BN to 
+#### 11.Work:
+
+Homies:
+Cody Baily
+Mick Pace
+Doug
+
+##### Questions:
+- [ ] Software for asset management?  
+- [x] Access to standards? ✅ 2026-05-05
+	- Found a document called Voluntary consensus standards that had a list and links of all the standards owned by Toyota. I downloaded everything I think I’ll use.
+- [ ] Validation documents?
+- [ ] Req IEC 61508-1 2026-05-06 
+#### Tasks:
+- [ ] USB training 
+- [ ] OSHA 10
+- [x] Electrical Safety Training  2026-05-06 ✅ 2026-05-07
+- [ ] Need coHE, take picture of date of coHE. Get scheduled for loto coHE training. 2026-05-08
+
+###### Monday: 
+- First day stuff 
+	- just getting my laptop and getting signed into all the systems for the first two days 
+	- https://maps.apple/p/4jNZirmMrnC05s
+	- ![[IMG_5084.jpeg]]
+- Perhaps using the cart itself (modified with a safety locking switch, mag or dual tongues). as the safe device is better, because with the door solution there’s a residual risk of foreseeable misuse of locking someone inside.
+- Escape release?
+- is the cart engineered, is there multiple? 
+- Show me your validation documents?
+- what standards do we have on deck? 
+###### Tuesday:
+336-257--0667
+###### Wednesday:
+###### Thursday:
+###### Friday:

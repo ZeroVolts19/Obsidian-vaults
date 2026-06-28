@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"aee1247197099a32","type":"file","file":"06 Source Materials/Attachments/Pasted image 20260521102847.png","x":-140,"y":-220,"width":183,"height":399},
+		{"id":"0045c1b29fff60b9","type":"text","text":"OMRON G7SA-4A2B","x":-140,"y":-362,"width":183,"height":102},
+		{"id":"cd56538b0f56cfa8","type":"text","text":"WEIDMULLER\n","x":177,"y":-362,"width":250,"height":60}
+	],
+	"edges":[]
+}

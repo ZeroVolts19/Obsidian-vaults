@@ -1,9 +1,11 @@
 #### Scoreboard
 
-| Date | Opponent | W/L |
-| ---- | -------- | --- |
-| 4/22 | Johnny   | L   |
-| 4/22 | Johnny   | L   |
+| Date | Opponent | W/L   |
+| ---- | -------- | ----- |
+| 4/22 | Johnny   | L     |
+| 4/22 | Johnny   | L     |
+| 5/10 | Johnny   | L     |
+| 5/10 | Johnny   | Stale |
 
 # Chess basics IMOW
 1. There are 7 different chess “pieces”.

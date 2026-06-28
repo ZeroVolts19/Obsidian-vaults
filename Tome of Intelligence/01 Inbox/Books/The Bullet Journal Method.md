@@ -86,5 +86,16 @@
 "Distracted by the never-ending stream of aspirational media, we forfeit our opportunity to define what is meaningful on our own terms."
 ```
 ([Location 344](https://readwise.io/to_kindle?action=open&asin=B07B7C4F9C&location=344))
+## New highlights added May 3, 2026 at 6:09 PM
+```text
+"Left unchecked, decision fatigue can lead to decision avoidance. This is especially true for big life choices, which we tend to put off till the last minute. Daunting choices don’t simply vanish; they wait in the wings, steadily becoming more menacing. Where do I want to go to college? Do I want to marry this person? Should I take that new job? By the time you’re finally forced to make a decision, at the tail end of all the other decisions you’ve been making to avoid having to make this big one, chances are you don’t have a lot of focus left to spare. No wonder we often feel stressed, anxious, and overwhelmed."
+```
+([Location 434](https://readwise.io/to_kindle?action=open&asin=B07B7C4F9C&location=434))
+
+
+```text
+"The Mental Inventory The first step to recovering from decision fatigue, to get out from under the pile of choices weighing on you, is to get some distance from them. You need some perspective to both clearly identify and corral your choices. We do this by writing them down. Why write them down? Each decision, until it’s been made and acted on, is simply a thought. Holding on to thoughts is like trying to catch fish with your bare hands: They easily slip from your grasp and disappear back into the muddy depths of your mind. Writing things down allows us to capture our thoughts and examine them in the light of day."
+```
+([Location 442](https://readwise.io/to_kindle?action=open&asin=B07B7C4F9C&location=442))
 
 

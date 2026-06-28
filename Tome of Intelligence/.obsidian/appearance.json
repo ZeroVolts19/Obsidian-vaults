@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Typewriter",
-  "theme": "moonstone",
-  "baseFontSize": 22
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian",
+  "baseFontSize": 22,
+  "accentColor": ""
 }

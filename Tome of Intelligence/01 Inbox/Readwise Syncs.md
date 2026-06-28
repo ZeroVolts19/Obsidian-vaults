@@ -132,5 +132,17 @@
     - 8 highlights from The Daily Stoic
 - [[2026-04-29]] 6:34 PM — Synced 8 highlights from 1 document.
     - 8 highlights from The Daily Stoic
+- [[2026-05-01]] 3:16 PM — Synced 0 highlights from 0 documents.
+- [[2026-05-02]] 4:29 PM — Synced 0 highlights from 0 documents.
+- [[2026-05-03]] 6:09 PM — Synced 5 highlights from 2 documents.
+    - 2 highlights from The Bullet Journal Method
+    - 3 highlights from The 48 Laws of Power
+- [[2026-05-04]] 8:58 PM — Synced 0 highlights from 0 documents.
+- [[2026-05-05]] 10:35 PM — Synced 0 highlights from 0 documents.
+- [[2026-05-07]] 8:51 AM — Synced 0 highlights from 0 documents.
+- [[2026-05-08]] 9:08 AM — Synced 0 highlights from 0 documents.
+- [[2026-05-10]] 9:28 AM — Synced 0 highlights from 0 documents.
+- [[2026-05-11]] 9:53 AM — Synced 0 highlights from 0 documents.
+- [[2026-05-12]] 10:38 AM — Synced 0 highlights from 0 documents.
 
 

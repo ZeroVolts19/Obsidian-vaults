@@ -28,7 +28,7 @@ not done
 #### 3.**Upcoming:**
 1. [ ] First Day @ Toyota 5/4
 2. [ ] **Mothers day 5/10**
-3. [ ] Chelsea Graduation📅 ⏳ 2026-05-10
+3. [x] Chelsea Graduation📅 ⏳ 2026-05-10 ✅ 2026-05-10
 4. [ ] Plant shopping w/Chels 
 5. [ ] Tattoo - E (touch-up) 
 6. [ ] Tattoo - Ne Quid Nimis
